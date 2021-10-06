@@ -1,6 +1,7 @@
 import React from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
-import { Card, Button, CardColumns } from "react-bootstrap";
+import { Card, CardColumns } from "react-bootstrap";
+import Button from "react-bootstrap/Button";
 
 function CardDisplay() {
   return (
